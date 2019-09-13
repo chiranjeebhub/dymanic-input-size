@@ -23,8 +23,8 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>Dynamic Input Size</h1>
+      <h2>Input text size will change depending on the length</h2>
       <input
         type="text"
         style={{ fontSize: size, width: "300px" }}
